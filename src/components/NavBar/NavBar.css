@@ -1,0 +1,18 @@
+.nav{
+    display:flex;
+    justify-content: space-around;
+    width: auto;
+    height: 10%;
+    background-color:gray;
+
+}
+.nav img{
+    padding: AUTO;
+    width: 10rem;
+    height: 10rem;
+}
+.nav p{
+    text-decoration: chocolate;
+    text-decoration-color: coral;
+   
+}

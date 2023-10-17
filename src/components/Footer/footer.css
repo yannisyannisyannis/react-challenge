@@ -1,0 +1,10 @@
+.bas {
+    padding: 10px;
+    background-color: aquamarine;
+    height: 15px;
+    width:max-content;
+}
+.bas p{
+    text-align: center;
+    text-decoration: double;
+}
