@@ -1,0 +1,22 @@
+.media{
+    justify-content:stretch;
+    background-color: rgb(255, 115, 0);
+    display:flex;
+    border: 1px solid #000;
+    align-items: baseline;
+    margin: auto;
+    padding: 5%;
+}
+.media img{
+    height: 40%;
+    justify-content: center;
+
+}
+.media p{
+    text-align: center;
+    font-size: 80%;
+}
+.media h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: ;
+}
